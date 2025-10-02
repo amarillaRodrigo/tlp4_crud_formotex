@@ -1,4 +1,4 @@
-# 🖥️ Gestión de Inventario - FORMOTEX
+# FORMOTEX
 
 API REST para la gestión de inventario de equipos informáticos desarrollada con Node.js, TypeScript, Express y MongoDB.
 
@@ -17,6 +17,9 @@ API REST para la gestión de inventario de equipos informáticos desarrollada co
    ```
 3. Configurar variables de entorno basandose en .env.example
 4. Iniciar servidor en desarrollo
+    ```bash
+   npm run dev
+   ```
 
 ## Uso
 
